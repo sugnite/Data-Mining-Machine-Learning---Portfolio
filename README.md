@@ -10,5 +10,5 @@ As my tutor has found my work to be very good and complete, I hope other people 
 I remain available to discuss my work if some people want to contact me.
 
 '''''''''''
-PS: Several function of this portfolio were extracted from Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems Book by Aurelien Geron. This book was the reference suppoort in our coursework. Other function can from all around internet. Of course main functions and improvement of other functions was designed by myself.
+PS: Several functions of this portfolio were extracted from Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems Book by Aurelien Geron. This book was the reference suppoort in our coursework. Other function can from all around internet. Of course main functions and improvement of other functions was designed by myself.
 '''''''''''
